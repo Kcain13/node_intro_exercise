@@ -1,0 +1,21 @@
+{
+  "name": "function-cat",
+  "version": "1.0.0",
+  "description": "function cat takes one argument 'path' ",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "36.4-node-intro"
+  },
+  "keywords": [
+    "springboard"
+  ],
+  "author": "kpcain13",
+  "license": "ISC",
+  "dependencies": {
+    "require": "^0.4.4"
+  }
+}
